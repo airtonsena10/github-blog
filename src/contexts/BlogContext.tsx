@@ -80,7 +80,7 @@ interface IBlogProviderProps {
 }
 
 const GITHUB_USERNAME = 'airtonsena10'
-const GITHUB_REPOSITORY = 'github-blogs'
+const GITHUB_REPOSITORY = 'github-blog'
 
 export const BlogContext = createContext({} as IBlogContextTypes)
 
